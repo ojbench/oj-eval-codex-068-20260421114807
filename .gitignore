@@ -1,0 +1,14 @@
+/.env
+/.acmoj_token
+/code
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+/compile_commands.json
+/*.o
+/*.obj
+/*.exe
+/.DS_Store
+/.vscode/
+/.idea/
